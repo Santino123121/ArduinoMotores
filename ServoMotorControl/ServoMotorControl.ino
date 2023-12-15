@@ -9,7 +9,9 @@ void setup() {
 
 void loop() {
   giroizq(0, 90, 3);//se pone primero donde iniciara el Motor, donde terminara y la velocidad(recomiendo usar multiplos del numero en donde terminara el motor)
+  delay(500);
   giroder(90, 0, 3);
+  delay(500);
 }
 void giroizq(int inicio,int fin,int speedy){
   while(inicio<=fin){//se compara donde vaya a iniciar el ServoMotor y donde terminara
