@@ -1,1 +1,9 @@
+Este programa controla a los motores DC mediante el driver L298N
 
+Cada programa esta nombrado respectivamente para su uso y con su lenguaje de programacion por defecto
+
+para que solo se tenga que abrir, hacer las conexiones indicadas y ejecutarlo
+
+Conexion de la Raspberry Pi:
+
+![image](https://github.com/Santino123121/Motores/assets/147212080/4da8da87-5798-4277-b45f-df975ecea586)
