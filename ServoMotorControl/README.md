@@ -8,4 +8,5 @@ Conexiones para el Arduino:
 ![image](https://github.com/Santino123121/Motores/assets/147212080/5c03b6fa-11a7-4391-b6bb-da5ecd142093)
 
 Conexiones para el Raspberry Pi:
-![Untitled Sketch 2_bb](https://github.com/Santino123121/Motores/assets/147212080/9529737f-6825-410d-aae5-685d9af29213)
+
+![Untitled Sketch 2_bb](https://github.com/Santino123121/Motores/assets/147212080/9741ec30-3c75-4480-9535-c80718717fe9)
