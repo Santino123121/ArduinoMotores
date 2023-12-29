@@ -3,3 +3,6 @@ Estos dos programas tratan de controlar la velocidad de los ServoMotores mediant
 Cada programa esta nombrado respectivamente para su uso y con su lenguaje de programacion por defecto
 
 para que solo se tenga que abrir, hacer las conexiones indicadas y ejecutarlo
+
+Conexiones para el Arduino
+![image](https://github.com/Santino123121/Motores/assets/147212080/5c03b6fa-11a7-4391-b6bb-da5ecd142093)
